@@ -15,7 +15,7 @@ Welcome to the Grocery Application! This is a user-friendly and easy-to-use land
 
 To get started with the Grocery Application, follow these steps:
 
-1. Clone the repository: https://github.com/Bhanu425-code/grocery-store.git
+1. Clone the repository: https://github.com/Bhanu425-code/grocery-ecomm.git
 2. Install dependencies: `npm install`
 3. Start the application: `npm run dev`
 
